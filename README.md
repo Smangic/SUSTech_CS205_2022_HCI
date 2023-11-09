@@ -6,9 +6,9 @@
 This project is developed as a part of the CS205 C/C++ course, focusing on utilizing OpenCV for hand gesture recognition to perform remote control operations on a computer. The goal is to accurately track hand position, gesture, and movement, and use these inputs to control the computer remotely.
 
 ## Team Members
-- Wang Haiyu
-- Ye Haoteng
-- Tang Hongjing
+- Wang Haiyu (Build the structure of this program, hand and gesture detection with SVM and contour detection methods)
+- Ye Haoteng (Implement the air-drawing and trajectory detection function)
+- Tang Hongjing (Implement the mouse control function)
 
 ## Objectives
 - Use OpenCV to capture real-time images from the webcam.
